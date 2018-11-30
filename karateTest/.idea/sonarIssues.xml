@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../../BugFixes_04-07-2018/webtest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../BugFixes_04-07-2018/webtest/src/test/java/org/naic/mfl/se/challenge/WebTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/features/APITest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/features/products/products.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/resources/products/products.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/resources/products/test.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/runner/APITest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../BugFixes_28-06-2018/zap-arc-automation/src/test/resources/features/regression/longisland/LongIsland_AdvancedSearch_TestCase.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_06-08-2018/zap-arc-automation/Jenkinsfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_13-08-2018/zap-arc-automation/src/test/java/com/zaplabs/automation/runner/RunnerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_13-08-2018/zap-arc-automation/src/test/java/com/zaplabs/automation/steps/BaseStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_13-08-2018/zap-arc-automation/src/test/java/com/zaplabs/automation/steps/longisland/LongIslandCommonStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_13-08-2018/zap-arc-automation/src/test/java/com/zaplabs/automation/util/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_13-08-2018/zap-arc-automation/src/test/resources/features/qadata.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_13-08-2018/zap-arc-automation/src/test/resources/features/regression/longisland/LongIsland_AdvancedSearch_TestCase.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_13-08-2018/zap-arc-automation/src/test/resources/features/testdata.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_17-08-2018/zap-web-automation/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_17-08-2018/zap-web-automation/src/test/java/com/zaplabs/automation/runner/RunnerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_17-08-2018/zap-web-automation/src/test/java/com/zaplabs/automation/steps/longisland/LongIslandTestStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Execution_17-08-2018/zap-web-automation/src/test/java/com/zaplabs/automation/util/WebDriverManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_16-08-2018/zap-web-automation/Jenkinsfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_16-08-2018/zap-web-automation/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_16-08-2018/zap-web-automation/src/test/java/com/zaplabs/automation/runner/RunnerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_16-08-2018/zap-web-automation/src/test/java/com/zaplabs/automation/steps/BaseStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_16-08-2018/zap-web-automation/src/test/java/com/zaplabs/automation/steps/longisland/LongIslandCommonStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_16-08-2018/zap-web-automation/src/test/java/com/zaplabs/automation/util/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_16-08-2018/zap-web-automation/src/test/java/com/zaplabs/automation/util/WebDriverManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_16-08-2018/zap-web-automation/src/test/resources/features/regression/longisland/LongIsland_AdvancedSearch_TestCase.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_Execution_20-08-2018/zap-automation/pipeLinefile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_Execution_20-08-2018/zap-automation/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_Execution_20-08-2018/zap-automation/src/test/java/com/zaplabs/automation/runner/RunnerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_Execution_20-08-2018/zap-automation/src/test/java/com/zaplabs/automation/util/WebDriverManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_Execution_20-08-2018/zap-automation/src/test/resources/features/regression/longisland/LongIsland_AdvancedSearch_TestCase.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Jenkins_Execution_20-08-2018/zap-automation/src/test/resources/features/regression/longisland/LongIsland_TestCase.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../karateDemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../karateDemo/src/test/java/features/ngauge.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../karateDemo/src/test/java/features/nguage.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../karateDemo/src/test/java/features/test.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../karateDemo/src/test/java/runner/APITest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,134 @@
+16:07:17.755 skipping bootstrap configuration: could not find or read file: karate-config.js, prefix: CLASSPATH
+16:07:18.898 request:
+1 > POST http://localhost:3000/api/login
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 44
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: localhost:3000
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_112)
+{"userName":"sai_m","password":"wolverine3"}
+
+16:07:18.986 response time in milliseconds: 87
+1 < 200
+1 < Connection: keep-alive
+1 < Content-Length: 171
+1 < Content-Type: text/html; charset=utf-8
+1 < Date: Mon, 15 Oct 2018 10:37:18 GMT
+1 < ETag: W/"ab-0lVQH3gyUH74R2/HrQN7W6yj26c"
+1 < X-Powered-By: Express
+1 < set-cookie: connect.sid=s%3AA6bdI7ihuy3veakwx_j8-pxsajC1s40J.JFxUtCN9XzTDVzDKWDLdoPnEfs8SsEnEuNWuyTWrFwI; Path=/; HttpOnly
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViNDJlMDVjOGIzMDg0NGZmODFmMzE3NiIsImlhdCI6MTUzOTU5OTgzOCwiZXhwIjoxNTM5Njg2MjM4fQ.c7c6M8FZkKs6M1LGmN7wXAZ6gPqNuf8NwJ0b5N4sPuk
+
+16:07:19.006 request:
+2 > POST http://localhost:3000/api/changePassword
+2 > Accept-Encoding: gzip,deflate
+2 > Connection: Keep-Alive
+2 > Content-Length: 47
+2 > Content-Type: application/json; charset=UTF-8
+2 > Cookie: connect.sid=s%3AA6bdI7ihuy3veakwx_j8-pxsajC1s40J.JFxUtCN9XzTDVzDKWDLdoPnEfs8SsEnEuNWuyTWrFwI
+2 > Host: localhost:3000
+2 > User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_112)
+2 > auth: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViNDJlMDVjOGIzMDg0NGZmODFmMzE3NiIsImlhdCI6MTUzOTU5OTgzOCwiZXhwIjoxNTM5Njg2MjM4fQ.c7c6M8FZkKs6M1LGmN7wXAZ6gPqNuf8NwJ0b5N4sPuk
+{"userName":"sai_m","newPassword":"wolverine3"}
+
+16:07:19.060 response time in milliseconds: 54
+2 < 200
+2 < Connection: keep-alive
+2 < Content-Length: 235
+2 < Content-Type: application/json; charset=utf-8
+2 < Date: Mon, 15 Oct 2018 10:37:19 GMT
+2 < ETag: W/"eb-m2VvcMkV9HsqWpU1JqJkTge3QEc"
+2 < X-Powered-By: Express
+{"_id":"5b42e05c8b30844ff81f3176","firstName":"sai","lastName":"M","userName":"sai_m","password":"$2b$09$aBmDUmzWJilYUkgEslgfvOJvde4FvZfmDgl3JBbb2Xn379KY1tcQa","hint":"friend","answer":"friend","DOB":"2018-07-09T04:11:08.895Z","__v":0}
+
+"__v":0}
+
+ text/html; charset=utf-8
+1 < Date: Mon, 13 Aug 2018 07:49:30 GMT
+1 < ETag: W/"bc-+auoTrwmUqvmy/os4g/TLmHzUTY"
+1 < X-Powered-By: Express
+1 < set-cookie: connect.sid=s%3A6FCCIvhPny9bs0vHdpAe7GCcCJz-Ntj8.a8NyVGF37SPVBvt6dxH0tJzhWq1N7PnQ%2FyWou0GiYaY; Path=/; HttpOnly
+Login Successful eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViNDJlMDVjOGIzMDg0NGZmODFmMzE3NiIsImlhdCI6MTUzNDE0NjU3MCwiZXhwIjoxNTM0MjMyOTcwfQ.KOrevHhaycMcQiNRdagsCC26IyfBD5wtsxWljKRJRzQ
+
+13:19:30.234 skipping bootstrap configuration: could not find or read file: karate-config.js, prefix: CLASSPATH
+13:19:30.238 request:
+1 > POST http://localhost:3000/api/login
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 44
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: localhost:3000
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_112)
+{"userName":"sai_m","password":"wolverine3"}
+
+13:19:30.298 response time in milliseconds: 59
+1 < 200
+1 < Connection: keep-alive
+1 < Content-Length: 188
+1 < Content-Type: text/html; charset=utf-8
+1 < Date: Mon, 13 Aug 2018 07:49:30 GMT
+1 < ETag: W/"bc-+auoTrwmUqvmy/os4g/TLmHzUTY"
+1 < X-Powered-By: Express
+1 < set-cookie: connect.sid=s%3AOPh3DnpXU7R4mt50gRdpUa_WMAu1bJvA.d8qcBb6JdMueHpFTbfcMfMYlvgCIhSgd6WGB3x74CN8; Path=/; HttpOnly
+Login Successful eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjViNDJlMDVjOGIzMDg0NGZmODFmMzE3NiIsImlhdCI6MTUzNDE0NjU3MCwiZXhwIjoxNTM0MjMyOTcwfQ.KOrevHhaycMcQiNRdagsCC26IyfBD5wtsxWljKRJRzQ
+
+13:19:30.312 request:
+2 > POST http://localhost:3000/api/changePassword
+2 > Accept-Encoding: gzip,deflate
+2 > Connection: Keep-Alive
+2 > Content-Length: 47
+2 > Content-Type: application/json; charset=UTF-8
+2 > Cookie: connect.sid=s%3AOPh3DnpXU7R4mt50gRdpUa_WMAu1bJvA.d8qcBb6JdMueHpFTbfcMfMYlvgCIhSgd6WGB3x74CN8
+2 > Host: localhost:3000
+2 > User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_112)
+{"userName":"sai_m","newPassword":"wolverine3"}
+
+13:19:30.329 response time in milliseconds: 16
+2 < 401
+2 < Connection: keep-alive
+2 < Content-Length: 32
+2 < Content-Type: text/html; charset=utf-8
+2 < Date: Mon, 13 Aug 2018 07:49:30 GMT
+2 < ETag: W/"20-36/Wi5uCD2N3RiuB2JP5IO7TOwo"
+2 < X-Powered-By: Express
+Please login to access dashboard
+
+13:19:30.330 status code was: 401, expected: 200, response time: 16, url: http://localhost:3000/api/changePassword, response: Please login to access dashboard
+13:19:30.375 skipping bootstrap configuration: could not find or read file: karate-config.js, prefix: CLASSPATH
+13:19:30.381 request:
+1 > GET http://localhost:3000/api/users
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: localhost:3000
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_112)
+
+13:19:30.399 response time in milliseconds: 18
+1 < 200
+1 < Connection: keep-alive
+1 < Content-Length: 489
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Mon, 13 Aug 2018 07:49:30 GMT
+1 < ETag: W/"1e9-D5U6ZTnpjzFPkzy2con1sRAbE3Y"
+1 < X-Powered-By: Express
+1 < set-cookie: connect.sid=s%3APHwTEnq52GFv0wsu3cXQMKVD04EYQSEc.RzrxMylurmlxLESEmVyDzlvL9HFMIAG8177HPeFqPKg; Path=/; HttpOnly
+[{"_id":"5b42e0378b30844ff81f3175","firstName":"kittu","lastName":"K","userName":"kittu_kk","password":"$2b$09$J/nfAoWeCE79r0mQjkNxHuCwf4T1Pk5m6wzVCSsCeMolCcZ82kIki","hint":"mobile number","answer":"9177867625","DOB":"2018-07-09T04:10:31.989Z","__v":0},{"_id":"5b42e05c8b30844ff81f3176","firstName":"sai","lastName":"M","userName":"sai_m","password":"$2b$09$qJPygk8OiIalYYLxmRW0pe0WsmcL58h3zeNsCC.5a3Aa/3ASyDAJK","hint":"friend","answer":"friend","DOB":"2018-07-09T04:11:08.895Z","__v":0}]
+
+13:19:30.520 request:
+2 > GET http://localhost:3000/api/users/5b42e0378b30844ff81f3175
+2 > Accept-Encoding: gzip,deflate
+2 > Connection: Keep-Alive
+2 > Cookie: connect.sid=s%3APHwTEnq52GFv0wsu3cXQMKVD04EYQSEc.RzrxMylurmlxLESEmVyDzlvL9HFMIAG8177HPeFqPKg
+2 > Host: localhost:3000
+2 > User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_112)
+
+13:19:30.546 response time in milliseconds: 26
+2 < 200
+2 < Connection: keep-alive
+2 < Content-Length: 251
+2 < Content-Type: application/json; charset=utf-8
+2 < Date: Mon, 13 Aug 2018 07:49:30 GMT
+2 < ETag: W/"fb-jAsCyjRHho+BbSdUiEeVh48T/GY"
+2 < X-Powered-By: Express
+{"_id":"5b42e0378b30844ff81f3175","firstName":"kittu","lastName":"K","userName":"kittu_kk","password":"$2b$09$J/nfAoWeCE79r0mQjkNxHuCwf4T1Pk5m6wzVCSsCeMolCcZ82kIki","hint":"mobile number","answer":"9177867625","DOB":"2018-07-09T04:10:31.989Z","__v":0}
+
